@@ -2,3 +2,20 @@ pkg/
 api.key
 .api.key.trimmed
 *-handin.tar.gz
+
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# Go
+*.test
+*.out
+
+# Lab outputs
+src/main/mr-out*
+src/main/mr-tmp*
